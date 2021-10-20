@@ -28,3 +28,9 @@ j.	Explain the factors in the data that may have an effect on ratings e.g. No. o
 
 
 All the information gathered here will lead to a better understanding of the data and allow for a better implementation of ML models.
+
+
+For visualization in Tableau:
+following is the link to Tableau public link :
+
+https://public.tableau.com/app/profile/rc.bhatt/viz/restaurant_data_16346616655300/Finaldashboard
